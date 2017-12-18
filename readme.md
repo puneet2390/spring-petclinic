@@ -8,6 +8,7 @@
 ## Running petclinic locally
 
 Clone the repo:
+## Clone the repo
 
 ```
 	git clone https://github.com/savishy/spring-petclinic
